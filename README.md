@@ -5,9 +5,9 @@
 | Nama             | Kelas           | NIM           |
 |------------------|-----------------|---------------|
 | Ridha Muhammad Rifqi       | TI.22.A.SE.1     | 312210491    |
-| Satria Dwi Aprianto        | TI.22.A.SE.1     | 312210491    |
-| Nicky Pascal Tambunan       | TI.22.A.SE.1     | 312210491    |
-| Serius Ndruru       | TI.22.A.SE.1     | 312210491    |
+| Satria Dwi Aprianto        | TI.22.A.SE.1     | 312210490    |
+| Nicky Pascal Tambunan       | TI.22.A.SE.1     | 312210474    |
+| Serius Ndruru       | TI.22.A.SE.1     | 312210508    |
 
 ---
 
